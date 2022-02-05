@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @scu111
-- 👀 I’m interested in statistical analysis in R and Python
+- 👋 Hi, I’m Solomon
+- 👀 I’m interested in statistical analysis using R and Python
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: solomonudochi@gmail.com
 
